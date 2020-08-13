@@ -139,7 +139,7 @@ return false;
  }
 if(document.myForm.passcode.value == "chetanbhagat"){
 alert("Correct Password");
-location.href="TYLevel2A.htm";
+location.href="index2.html";
 }
 else{
 alert("Password is wrong.");
