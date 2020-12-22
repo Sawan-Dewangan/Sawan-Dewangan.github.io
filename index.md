@@ -3,8 +3,6 @@
 <title>
 	TechYupp Level 1
 </title>
-
-</script>
 <style>
 	body{
 	background-color:rgb(104,0,28);
